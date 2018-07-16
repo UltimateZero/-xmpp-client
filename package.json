@@ -12,7 +12,6 @@
     "@xmpp/sasl": "^0.3.0",
     "@xmpp/sasl-digest-md5": "git+https://github.com/UltimateZero/-xmpp-sasl-digest-md5.git",
     "@xmpp/starttls": "^0.3.0",
-    "@xmpp/stream-features": "^0.3.0",
     "@xmpp/tls": "^0.3.0"
   },
   "browser": {
