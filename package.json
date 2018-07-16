@@ -17,7 +17,6 @@
     "@xmpp/session-establishment": "^0.3.0",
     "@xmpp/starttls": "^0.3.0",
     "@xmpp/stream-features": "^0.3.0",
-    "@xmpp/tcp": "^0.3.0",
     "@xmpp/tls": "^0.3.0",
     "@xmpp/websocket": "^0.3.0"
   },
