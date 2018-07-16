@@ -12,8 +12,6 @@
     "@xmpp/router": "^0.3.0",
     "@xmpp/sasl": "^0.3.0",
     "@xmpp/sasl-digest-md5": "git+https://github.com/UltimateZero/-xmpp-sasl-digest-md5.git",
-    "@xmpp/sasl-plain": "^0.3.0",
-    "@xmpp/sasl-scram-sha-1": "^0.3.0",
     "@xmpp/session-establishment": "^0.3.0",
     "@xmpp/starttls": "^0.3.0",
     "@xmpp/stream-features": "^0.3.0",
