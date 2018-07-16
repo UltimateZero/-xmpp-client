@@ -9,7 +9,6 @@
     "@xmpp/bind": "^0.3.0",
     "@xmpp/client-core": "^0.3.0",
     "@xmpp/plugins": "^0.3.0",
-    "@xmpp/router": "^0.3.0",
     "@xmpp/sasl": "^0.3.0",
     "@xmpp/sasl-digest-md5": "git+https://github.com/UltimateZero/-xmpp-sasl-digest-md5.git",
     "@xmpp/starttls": "^0.3.0",
